@@ -1,0 +1,2 @@
+learning_joy
+-DCATKIN_DEVEL_PREFIX=/home/fjj/catkin_handle/devel -DCMAKE_INSTALL_PREFIX=/home/fjj/catkin_handle/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/fjj/neuq_gazebo_rm/neuq_gazebo_rm/devel
+
+Name: gimbal_urdf
+Description: Description of gimbal_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

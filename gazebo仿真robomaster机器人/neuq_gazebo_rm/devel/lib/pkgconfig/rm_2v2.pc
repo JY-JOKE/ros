@@ -1,0 +1,8 @@
+prefix=/home/fjj/neuq_gazebo_rm/neuq_gazebo_rm/devel
+
+Name: rm_2v2
+Description: Description of rm_2v2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

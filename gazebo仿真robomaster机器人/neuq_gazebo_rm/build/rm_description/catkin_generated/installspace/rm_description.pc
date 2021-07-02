@@ -1,0 +1,8 @@
+prefix=/home/fjj/neuq_gazebo_rm/neuq_gazebo_rm/install
+
+Name: rm_description
+Description: Description of rm_description
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
